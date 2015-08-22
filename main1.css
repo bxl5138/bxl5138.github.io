@@ -1,0 +1,161 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+  border-bottom-style: solid;
+  border-bottom-color: #dbdbdb;
+  border-bottom-width: 1px;
+}
+
+.fixed-nav-bar a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.fixed-nav-bar li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('http://udhao.net/wp-content/uploads/beautiful-library-digital-art-hd-wallpaper-2560x1600-417222.jpg');
+  height: 500px;
+  margin: 0px 0px;
+  margin-top:45px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center top;
+}
+
+.jumbotron .overlay1
+{
+  background-color: rgba(0,0,0,0.8);
+  height: 50%;
+  width:100%;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:50px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 64px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-shadow:-10px 10px 50px black;
+
+}
+
+.jumbotron h2 {
+  color: #fff;
+  font-size: 32px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-shadow:-10px 10px 50px black;
+
+}
+
+.jumbotron h4 {
+  color: #fff;
+  font-size: 24px;  
+  font-family: 'Shift', sans-serif;
+  text-shadow:-10px 10px 50px black;
+  font-style:italic;
+}
+
+
+
+
+
+
+.jumbotron .more-info
+{
+  padding-top:15%;
+}
+
+.jumbotron ul {
+  font-size: 32px;
+  color: #fff;
+  font-family: 'Shift,' sans-serif;
+  font-style: italic;
+  list-style-type:  none;
+  text-shadow: 1px 1px 250px black;
+
+}
+
+
+.highlights
+{
+  border-bottom: 1px solid #dbdbdb;
+}
+
+.highlights h2
+{
+  color: #393c3d;
+  font-size: 24px;
+}
+
+.highlights a
+{
+  font-size: 15px;
+  margin-bottom: 13px;
+  color: #393c3d;
+}
+
+.highlights .thumbnail img
+{
+  max-height: 197px;
+  width: 100%;
+}
+
+.highlights .thumbnail
+{
+  min-height: 220px;
+  text-align: center;
+  border: none;
+}
+
+.highlights #fifth .container
+{
+  overflow: hidden;
+  width: 350px;
+
+}
+
+.highlights #fifth img
+{
+  height: 444px;
+  max-height: none;
+}
+
+
+.learn-more {
+  background-color: #f7f7f7;
+  border: 1px solid #dbdbdb;
+
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
