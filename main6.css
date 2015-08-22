@@ -1,0 +1,187 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+
+.fixed-nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100%;
+  height: 50px;
+  background-color: #fff;
+  border-bottom-style: solid;
+  border-bottom-color: #dbdbdb;
+  border-bottom-width: 1px;
+}
+
+.fixed-nav-bar a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+
+}
+
+.fixed-nav-bar li {
+  display: inline;
+}
+
+ul
+{
+  list-style-type: none;
+}
+
+
+.heading
+{
+  color: #fff;
+  font-size: 64px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  text-shadow:-10px 10px 50px black;
+}
+
+.description
+{
+  color:#fff;
+}
+
+.jumbotron1{
+  padding-top: 60px;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2b/Melk_-_Abbey_-_Library.jpg");
+  background-position: center center;
+  background-size: cover;
+  height:500px;
+
+}
+
+.overlay1
+{
+  background-color:rgba(0,0,0,0.65);
+  margin-top:-10px;
+  height:calc(100% + 10px);
+}
+
+.jumbotron1 h1
+{
+  padding: 100% 72%;
+  font-size:64px;
+}
+
+
+.jumbotron1 .description
+{
+  line-height:150%;
+  font-size:18px;
+  padding: 7% 10%;
+}
+
+.jumbotron1 li
+{
+  padding:10px;
+}
+
+.jumbotron2{
+  background-image: url("http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2012/07/The-Accelerator-workspace.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 420px;
+}
+
+.overlay2
+{
+
+  background-color: rgba(0,0,0,0.65);
+  margin-top:0px;
+  height:100%;
+}
+
+.jumbotron2 h1
+{
+  padding: 80% 43%;
+  font-size:64px;
+}
+
+
+.jumbotron2 .description
+{
+  line-height:150%;
+  font-size:18px;
+  padding:  9% 10%;
+
+}
+
+.jumbotron2 li
+{
+  padding:10px;
+}
+
+.jumbotron3{
+  background-image: url("http://www.tumotech.com/wp-content/uploads/2014/05/fire-hands-super-hq-302329edited.jpg");
+  background-position:center center;
+  background-size:cover;
+  height:460px;
+}
+
+.overlay3
+{
+  background-color: rgba(0,0,0,0.65);
+  height:100%
+}
+
+
+
+
+
+.jumbotron3 h1
+{
+  font-size:64px;
+  text-align: center;
+  color:#fff;
+  padding-top: 6%;
+  padding-left: 10%;
+  padding-right:10%;
+}
+
+
+.jumbotron3 .col-md-6
+{
+  text-align: center;
+  color: #fff;
+  font-size:32px;
+  padding-top: 10%;
+}
+
+.jumbotron3 a
+{
+  color: #fff;
+}
+
+
+.learnMore
+{
+  text-align: center;
+  color: #00b0ff;
+}
+
+
+
+.learn-more {
+  background-color: #f7f7f7;
+  border: 1px solid #dbdbdb;
+
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
