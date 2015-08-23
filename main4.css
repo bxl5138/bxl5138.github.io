@@ -47,7 +47,10 @@
 }
 
 
-
+.jumbotron
+{
+	margin-bottom:0px;
+}
 
 
 .jumbotron h1 

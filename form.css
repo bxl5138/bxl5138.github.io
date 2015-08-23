@@ -1,0 +1,15 @@
+.container-fluid
+{
+	height:800px;
+	width:100%;
+	background-image:url("http://www.tumotech.com/wp-content/uploads/2014/05/fire-hands-super-hq-302329edited.jpg");
+	background-size: cover;
+}
+
+.container
+{
+	vertical-align: center;
+	width:50%;
+	padding-top:10%;
+	color:#00b0ff;
+}
