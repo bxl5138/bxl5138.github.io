@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"> 
+</head>
+</html>
+
+
+
+<head>
+  <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="main1.css">
+
+  <script>
+    var shiftWindow = function() { scrollBy(0, -50) };
+    window.addEventListener("hashchange", shiftWindow);
+    function load() { if (window.location.hash) shiftWindow(); }
+  </script>
+
+</head>
+
+<body onload="load()">
+
+  <nav class="fixed-nav-bar">
+    <div class="container">
+      <h5> </h5>
+      <ul class = "pull-left">
+        <li><a href="Page1_Home.html">Home</a></li>
+        <li><a href="Page4_About.html">About</a></li>
+      </ul>
+      <ul class = "pull-right">
+        <li><a href="Page3_Resume.html" target="_blank">Resumé</a></li>
+        <li><a href="mailto:leshchinskiy.brandon@gmail.com">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="jumbotron">
+  <div class ="overlay1">
+    <div class="container">
+
+<!--       <ul>
+        <li>  Engineering...</li>
+        <li>  Music...</li>
+        <li>  Dance...</li>
+        <li>  Language...</li>
+      </ul> -->
+      <h1>Hello, I'm Brandon.</h1>
+      <h2>I like to create things.</h2>
+       <div class="more-info">
+      <a href="#more-info">Learn More</a>
+      </div> 
+
+    </div>
+    </div>
+  </div> 
+
+  <div class = "highlights" id = "more-info">
+    <div class = "container">
+      <h2>Recent Highlights</h2>
+      <p>Who saves the best for last? Here are my favorite experiences from the last few years! </p>
+      <div class = "row">
+
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <a href="Page2_Highlights.html#GE">
+              <img src="http://wicu.images.worldnow.com/images/24611519_BG1.jpg" >
+            </a>
+            <a href="Page2_Highlights.html#GE">Summer 2015 Internship with GE Transportation</a>
+          </div>
+
+          <div class="thumbnail">
+            <a href="Page2_Highlights.html#hackerParadise">
+              <img src="http://www.hackerparadise.org/hp15_site/assets/img/destinations/berlin.jpg">
+            </a>
+            <a href="Page2_Highlights.html#hackerParadise">Hacker Paradise in Berlin, Germany</a>
+          </div>
+        </div>
+
+
+        <div class="col-md-4">
+          <div class="thumbnail">
+            <a href="Page2_Highlights.html#hackPSU">
+              <img src="http://media.centredaily.com/smedia/2015/03/29/20/40/bYRyy.AuSt.42.jpeg" >
+            </a>
+            <a href="Page2_Highlights.html#hackPSU"> HackPSU: Penn State's Spring Hackathon </a>
+
+          </div>
+
+          <div class="thumbnail">
+            <a href="Page2_Highlights.html#Verizon">
+              <img src="https://lh3.googleusercontent.com/-WPRTDyl6WaI/Vc4DzZmBl4I/AAAAAAAABPQ/EMC662mMuw4/w848-h553-no/show6.jpg" >
+            </a>
+            <a href="Page2_Highlights.html#Verizon">Summer 2014 Internship with Verizon</a>
+          </div>
+
+        </div>
+
+        <div class="col-md-4">
+          <div class="thumbnail" id="fifth">
+            <div class="container">
+              <a href="Page2_Highlights.html#hobbies">
+                <img src="http://sellingout.com/wp-content/uploads/2015/07/LectureConvo.jpg" >
+              </a>
+              <a href="Page2_Highlights.html#hobbies">Music, Dance, and Sports</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="learn-more">
+     <div class="container">
+      <div class="row">
+       <div class = "col-md-4">
+         <h3>Why do you want me?</h3>
+         <p>Through classes, internships, and projects, I've built a strong technical foundation. I remain versatile, however, because of my diverse leadership experience and broad array of interests. </p>
+         <p><a href="Page6_Professional.html#I">Learn more about what I offer</a></p>
+       </div>
+       <div class="col-md-4">
+         <h3>Why do I want you?</h3>
+         <p> Fast-paced. Fluid. Brilliant. You are a veritable proving grounds for engineers looking to create the future, and I'd love to meet you.</p>
+         <p><a href="Page6_Professional.html#You">See what I look for in a career</a></p>
+       </div>
+       <div class = "col-md-4">
+         <h3>Let's make this happen!</h3>
+         <p>Email me at BXL5138@psu.edu or call 717-881-0188. I look forward to hearing from you!</p>
+         <p><a href="mailto:leshchinskiy.brandon@gmail.com">Start the conversation</a></p>
+       </div>
+     </div>
+   </div>
+ </div>
+</body>
+</html>
