@@ -40,7 +40,7 @@ ul
 {
   color: #fff;
   font-size: 64px;  
-  font-family: 'Shift', sans-serif;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
   text-shadow:-10px 10px 50px black;
 }
@@ -124,7 +124,7 @@ ul
   background-image: url("http://www.tumotech.com/wp-content/uploads/2014/05/fire-hands-super-hq-302329edited.jpg");
   background-position:center center;
   background-size:cover;
-  height:460px;
+  height:660px;
 }
 
 .overlay3
@@ -161,28 +161,10 @@ ul
   color: #fff;
 }
 
-
-.learnMore
+.jumbotron3 #email
 {
-  text-align: center;
-  color: #00b0ff;
-}
-
-
-
-.learn-more {
-  background-color: #f7f7f7;
-  border: 1px solid #dbdbdb;
-  padding-bottom:15px;
-
-}
-
-.learn-more h3 {
-  font-family: 'Shift', sans-serif;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.learn-more a {
-  color: #00b0ff;
+  padding:10px;
+  border-style: solid;
+  border-width: medium;
+  border-color: white;
 }

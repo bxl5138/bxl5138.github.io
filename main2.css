@@ -67,7 +67,7 @@
 .jumbotron1 h1
 {
 	color: #fff;
-	font-family: 'Shift', sans-serif;
+	font-family: 'Merriweather', serif;
 	font-weight: bold;
 }
 
@@ -75,7 +75,7 @@
 {
 	font-size: 22px;
 	color: #fff;
-	font-family: 'Shift,' sans-serif;
+	font-family: 'Merriweather', serif;
 	font-style: italic;
 	line-height: 150%;
 }
@@ -100,7 +100,7 @@
 .jumbotron2 h1
 {
 	color: #000;
-	font-family: 'Shift', sans-serif;
+	font-family: 'Merriweather', serif;
 	font-weight: bold;
 }
 
@@ -108,7 +108,7 @@
 {
 	font-size: 22px;
 	color: #000;
-	font-family: 'Shift,' sans-serif;
+	font-family: 'Merriweather', serif;
 	font-style: italic;
 	line-height: 150%;
 }
@@ -133,7 +133,7 @@
 .jumbotron3 h1
 {
 	color: #fff;
-	font-family: 'Shift', sans-serif;
+	font-family: 'Merriweather', serif;
 	font-weight: bold;
 }
 
@@ -141,7 +141,7 @@
 {
 	font-size: 22px;
 	color: #fff;
-	font-family: 'Shift,' sans-serif;
+	font-family: 'Merriweather', serif;
 	font-style: italic;
 	line-height: 150%;
 }
@@ -166,7 +166,7 @@
 .jumbotron4 h1
 {
 	color: #000;
-	font-family: 'Shift', sans-serif;
+	font-family: 'Merriweather', serif;
 	font-weight: bold;
 }
 
@@ -174,7 +174,7 @@
 {
 	font-size: 22px;
 	color: #000;
-	font-family: 'Shift,' sans-serif;
+	font-family: 'Merriweather', serif;
 	font-style: italic;
 	line-height: 150%;
 }
@@ -199,7 +199,7 @@
 .jumbotron5 h1
 {
 	color: #fff;
-	font-family: 'Shift', sans-serif;
+	font-family: 'Merriweather', serif;
 	font-weight: bold;
 }
 
@@ -207,7 +207,7 @@
 {
 	font-size: 22px;
 	color: #fff;
-	font-family: 'Shift,' sans-serif;
+	font-family: 'Merriweather', serif;
 	font-style: italic;
 	line-height: 150%;
 }
@@ -227,7 +227,7 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 18px;
   font-weight: bold;
 }

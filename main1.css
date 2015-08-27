@@ -54,8 +54,7 @@
 .jumbotron h1 {
   color: #fff;
   font-size: 64px;  
-  /*font-family: 'Shift', sans-serif;*/
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
   text-shadow:-10px 10px 50px black;
 
@@ -64,7 +63,7 @@
 .jumbotron h2 {
   color: #fff;
   font-size: 32px;  
-  font-family: 'Shift', sans-serif;
+  font-family: 'Merriweather', serif;
   font-weight: bold;
   text-shadow:-10px 10px 50px black;
 
@@ -73,7 +72,7 @@
 .jumbotron h4 {
   color: #fff;
   font-size: 24px;  
-  font-family: 'Shift', sans-serif;
+  font-family: 'Merriweather', serif;
   text-shadow:-10px 10px 50px black;
   font-style:italic;
 }
@@ -153,7 +152,7 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
+  font-family: 'Merriweather', serif;
   font-size: 18px;
   font-weight: bold;
 }
