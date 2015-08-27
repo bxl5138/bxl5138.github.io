@@ -3,19 +3,6 @@
   padding:0px;
 }
 
-@font-face {
-  font-family: 'Shift';
-  font-style: normal;
-  font-weight: normal;
-  src: url("http://s3.amazonaws.com/codecademy-content/courses/ltp/fonts/shift.woff") format("woff");
-}
-@font-face {
-  font-family: 'Shift';
-  font-style: normal;
-  font-weight: bold;
-  src: url("http://s3.amazonaws.com/codecademy-content/courses/ltp/fonts/shift-bold.woff") format("woff");
-}
-
 
 .fixed-nav-bar {
   position: fixed;
@@ -67,7 +54,8 @@
 .jumbotron h1 {
   color: #fff;
   font-size: 64px;  
-  font-family: 'Shift', sans-serif;
+  /*font-family: 'Shift', sans-serif;*/
+  font-family: 'Slabo 27px', serif;
   font-weight: bold;
   text-shadow:-10px 10px 50px black;
 
